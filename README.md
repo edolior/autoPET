@@ -1,6 +1,6 @@
 # GrandChallenge_autoPET
 
-Grand Challenge autoPET - https://autopet.grand-challenge.org/
+Grand Challenge autoPET 2022 - https://autopet.grand-challenge.org/
 
 ![TCIA_figure](https://user-images.githubusercontent.com/44165771/199807875-17b9ae3c-b141-4a65-98d2-7c933fbf9fc5.jpg)
 
